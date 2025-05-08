@@ -337,4 +337,21 @@
             <a href="https://instagram.com" target="_blank">Instagram</a>
         </div>
     </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PS Rabupura 1 Jewar</title>
+  <link rel="stylesheet" href="style.css"> <!-- Link to CSS file -->
+</head>
+<body>
+  <!-- Your HTML content goes here -->
+
+  <!-- Link to your JavaScript file -->
+  <script src="script.js"></script>
+</body>
+</html>
+
 </footer>
+
